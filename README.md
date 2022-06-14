@@ -17,7 +17,8 @@ We also utilized 3D-Scatter with the PCA data and clusters
 
 <img width="889" alt="3D-Scatter" src="https://user-images.githubusercontent.com/86068655/173469147-19894872-60cc-4206-bf93-2041715152e0.png">
 
-<img width="912" alt="hvPlot" src="https://user-images.githubusercontent.com/86068655/173469369-6f6b1397-e6f7-4329-851a-c5154d8a037b.png">
+<img width="905" alt="Tradeable_currencies" src="https://user-images.githubusercontent.com/86068655/173469465-8e81059f-8580-4cd3-966e-4e591d5f45f3.png">
+
 
 Then the created hvTable above told us there were 532 tradeable currencies. And from the table we created an hvPlot (Scatter) to further show the grouping of the coin supply data. 
 
