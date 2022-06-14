@@ -2,10 +2,10 @@
 
 The purpose of this project is to analyze cryptocurrency data using methods of Unsupervised Machine Learning broken up into four Deliverables. Once the data was Downloaded from CryptoCompare, Pandas was used to fit the learning models. Reduction of the data prepared for clustering. A clustering Algorithm was used for grouping. And hvPlot visualizations were used to share the results. 
 
-•	Deliverable 1: Preprocessing the Data for PCA
-•	Deliverable 2: Reducing Data Dimensions Using PCA
-•	Deliverable 3: Clustering Cryptocurrencies Using K-means
-•	Deliverable 4: Visualizing Cryptocurrencies Results
+* Deliverable 1: Preprocessing the Data for PCA
+*	Deliverable 2: Reducing Data Dimensions Using PCA
+*	Deliverable 3: Clustering Cryptocurrencies Using K-means
+*	Deliverable 4: Visualizing Cryptocurrencies Results
 
 Results
 Once the data was preprocessed and parameters were established for clustering limitations, we sought to find the best value for K, which determined by the Elbow Curve was 4.
